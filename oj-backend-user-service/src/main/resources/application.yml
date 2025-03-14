@@ -20,7 +20,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3306/oj
     username: root
-    password: wdmmbgsn77
+    password: 
   #   Redis ??
   #   todo ????????????
   data:
